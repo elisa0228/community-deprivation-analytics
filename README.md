@@ -32,23 +32,7 @@ Resole is a UK-based social enterprise focused on reducing footwear poverty by r
 
 The project explored how data analytics could be used to identify areas where support could have the greatest social impact.
 
-# Community Deprivation Analytics & Data Science Project Lifecycle
-
-## Overview
-
-This project investigates the relationship between homelessness, deprivation, population demographics, and Gross Disposable Household Income (GDHI) across local authorities in England.
-
-The project followed the complete Data Science Project Lifecycle, including:
-
-- Data acquisition and cleaning
-- Exploratory Data Analysis (EDA)
-- Data visualisation
-- Statistical analysis
-- Dashboard development
-- Insight generation and reporting
-
-The objective was to identify key socio-economic factors associated with homelessness and deprivation and communicate findings through interactive dashboards and visual analytics.
-
+<br> 
 
 ### Dashboard Showcase
 
@@ -56,40 +40,71 @@ The objective was to identify key socio-economic factors associated with homeles
 
 Analysis of homelessness counts, household deprivation categories, and income deprivation rates across local authorities.
 
-![Homelessness Dashboard](images/Homelessness%20and%20household%20deprivation%20dashboard.png)
+<p align="center">
+  <img src="images/homeslessness and household deprivation dashboard.png" width="750">
+</p>
 
+<p align="center">
+  <em>Figure 1: Dashboard analysing homelessness levels, household deprivation categories, and income deprivation rates across local authorities.</em>
+</p>
 
+---
 
 **Income Deprivation and Population Dashboard**
 
 Exploration of relationships between deprivation levels and population demographics.
 
-![Income Deprivation Dashboard](images/Income%20deprivation%20and%20population%20dashboard.png)
+<p align="center">
+  <img src="images/Income deprivation and population dashboard.png" width="750">
+</p>
 
+<p align="center">
+  <em>Figure 2: Dashboard exploring population characteristics and deprivation indicators across local authority districts.</em>
+</p>
 
+---
 
 **GDHI and Young Children Dashboard**
 
 Analysis of Gross Disposable Household Income (GDHI), population distribution, and demographic trends.
 
-![GDHI Dashboard](images/GDHI%20and%20young%20children%20dashboard.png)
+<p align="center">
+  <img src="images/GDHI and young children dashboard.png" width="750">
+</p>
 
+<p align="center">
+  <em>Figure 3: Dashboard visualising GDHI levels, population demographics, and age-related trends.</em>
+</p>
 
+---
 
 **Homelessness Impact Analysis**
 
 Identification of local authorities experiencing the highest levels of homelessness.
 
-![Homelessness Analysis](images/homelessness%20dashboard.png)
+<p align="center">
+  <img src="images/homelessness dashboard.png" width="750">
+</p>
 
+<p align="center">
+  <em>Figure 4: Geographic and statistical analysis highlighting the local authorities most affected by homelessness.</em>
+</p>
 
+---
 
 **Statistical Modelling Results**
 
 Regression and multivariate analysis used to investigate relationships between deprivation, income, population, and homelessness.
 
-![Regression Analysis](images/regression%20analysis%20for%20three%20datasets.png)
+<p align="center">
+  <img src="images/regression analysis for three datasets.png" width="750">
+</p>
 
+<p align="center">
+  <em>Figure 5: Regression modelling results examining relationships between socio-economic indicators and homelessness outcomes.</em>
+</p>
+
+<br>
 
 ### Key Findings
 
