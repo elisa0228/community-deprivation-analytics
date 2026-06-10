@@ -32,6 +32,73 @@ Resole is a UK-based social enterprise focused on reducing footwear poverty by r
 
 The project explored how data analytics could be used to identify areas where support could have the greatest social impact.
 
+# Community Deprivation Analytics & Data Science Project Lifecycle
+
+## Overview
+
+This project investigates the relationship between homelessness, deprivation, population demographics, and Gross Disposable Household Income (GDHI) across local authorities in England.
+
+The project followed the complete Data Science Project Lifecycle, including:
+
+- Data acquisition and cleaning
+- Exploratory Data Analysis (EDA)
+- Data visualisation
+- Statistical analysis
+- Dashboard development
+- Insight generation and reporting
+
+The objective was to identify key socio-economic factors associated with homelessness and deprivation and communicate findings through interactive dashboards and visual analytics.
+
+
+### Dashboard Showcase
+
+**Homelessness and Household Deprivation Dashboard**
+
+Analysis of homelessness counts, household deprivation categories, and income deprivation rates across local authorities.
+
+![Homelessness Dashboard](images/Homelessness%20and%20household%20deprivation%20dashboard.png)
+
+
+
+**Income Deprivation and Population Dashboard**
+
+Exploration of relationships between deprivation levels and population demographics.
+
+![Income Deprivation Dashboard](images/Income%20deprivation%20and%20population%20dashboard.png)
+
+
+
+**GDHI and Young Children Dashboard**
+
+Analysis of Gross Disposable Household Income (GDHI), population distribution, and demographic trends.
+
+![GDHI Dashboard](images/GDHI%20and%20young%20children%20dashboard.png)
+
+
+
+**Homelessness Impact Analysis**
+
+Identification of local authorities experiencing the highest levels of homelessness.
+
+![Homelessness Analysis](images/homelessness%20dashboard.png)
+
+
+
+**Statistical Modelling Results**
+
+Regression and multivariate analysis used to investigate relationships between deprivation, income, population, and homelessness.
+
+![Regression Analysis](images/regression%20analysis%20for%20three%20datasets.png)
+
+
+### Key Findings
+
+- London boroughs recorded some of the highest homelessness counts.
+- Higher deprivation levels were generally associated with increased homelessness.
+- Significant variation exists between local authorities in terms of GDHI and demographic characteristics.
+- Population density and socio-economic indicators showed measurable relationships with homelessness trends.
+- Interactive dashboards enabled effective communication of complex social and economic datasets.
+
 
 ### Methodology
 
